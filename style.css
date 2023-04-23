@@ -18,8 +18,10 @@ body {
 }
 
 @media (max-width:768px) {  
+
   .description-method { text-align: center;
 }
+
 }
 .centered-main-page {
   display: block;
@@ -45,7 +47,6 @@ li, h3 {
 input,button{
   outline:none;
 }
-
 .add-item__button-new-task,
 .task__button-edit,
 .task__button-delete {
@@ -63,8 +64,8 @@ input,button{
 .task__button-delete:hover {
   color: #3a3a3a;
 }
-/* Heading */
 
+/* Heading */
 .add-item__title-new-task,
 .incompleted-tasks__title,
 .completed-tasks__title {
@@ -117,7 +118,6 @@ input,button{
 .task > * {
   vertical-align: middle;
 }
-
 .task > .task__input_checkbox {
   margin: 0 10px;
 }
