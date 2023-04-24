@@ -14,7 +14,7 @@ body {
   width: 100%;
 }
 .description-method__link-more-info {
-  font-family: fantasy, cursive;
+  font-family: Papyrus,cursive;
 }
 
 @media (max-width:768px) {  
