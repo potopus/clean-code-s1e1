@@ -122,7 +122,11 @@ button{
   justify-content: space-between;
   align-items: center;
 }
-.task > * {
+.task__input-checkbox,
+.task__label-content,
+.task__input-content,
+.task__button-edit,
+.task__button-delete {
   vertical-align: middle;
 }
 .task > .task__input-checkbox {
