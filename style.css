@@ -1,5 +1,5 @@
 /* Basic Style */
-body {
+.body {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -38,6 +38,9 @@ body {
 .add-item__task-row-wrapper {
   display: flex;
 }
+
+/* tags selectors ul,li,h3,input and button using for reset default settings */
+
 ul {
   margin: 0;
   padding: 0px;
@@ -50,6 +53,7 @@ input,
 button{
   outline: none;
 }
+
 .add-item__button-new-task,
 .task__button-edit,
 .task__button-delete {
