@@ -121,7 +121,7 @@ button{
 .task > * {
   vertical-align: middle;
 }
-.task > .task__input_checkbox {
+.task > .task__input-checkbox {
   margin: 0 10px;
 }
 .task > .task__label-content {

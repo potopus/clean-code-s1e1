@@ -38,7 +38,7 @@ var createNewTaskElement=function(taskString){
     //Each elements, needs appending
     listItem.classList.add("task", "task_incomplete");
     checkBox.type="checkbox";
-    checkBox.className="task__input_checkbox";
+    checkBox.className="task__input-checkbox";
     editInput.type="text";
     editInput.classList.add("task__input-content", "task_stretch-field");
 
